@@ -13,7 +13,8 @@ import tempfile
 import os
 import shutil
 
-from basic_func import check_exist, check_overwrite
+from mods.func_prompt_io import check_exist, check_overwrite
+
 
 
 # =============== main =============== #
